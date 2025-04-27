@@ -4,6 +4,8 @@ Group project with friends. Included in this repo is the Arduino code for our ca
 ## Demo
 
 
+https://github.com/user-attachments/assets/dbd4af4f-bd5c-4628-8239-085a0d6c7a6e
+
 
 ## Parts List
 
