@@ -1,5 +1,7 @@
 # LineFollowingCar
-Group project with friends. Included in this repo is the Arduino code for our car. The car uses a PID to follow a line. Inspiration taken from [DonnyCraft1's PIDArduino lib](https://github.com/DonnyCraft1/PIDArduino/tree/master).
+Group project with friends. Included in this repo is the Arduino code for our car. The car uses a [PID](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller) to follow a line. Inspiration taken from [DonnyCraft1's PIDArduino lib](https://github.com/DonnyCraft1/PIDArduino/tree/master).
+
+PID tuning instructions can be found [here](https://pidexplained.com/how-to-tune-a-pid-controller/).
 
 ## Demo
 
