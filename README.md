@@ -9,13 +9,17 @@ PID tuning instructions can be found [here](https://pidexplained.com/how-to-tune
 https://github.com/user-attachments/assets/dbd4af4f-bd5c-4628-8239-085a0d6c7a6e
 
 
+https://github.com/user-attachments/assets/74129656-9549-43fa-8a57-fd967698480c
+
+
 ## Parts List
 
 - IR Infrared Obstacle Avoidance Sensor
 - 5 Channel IR Sensor Array
-- 4 TT Motors with Leads and Wheels (DC Motor 3-6V)
+- 2 TT Motors with Leads and Wheels (DC Motor 3-6V)
 - L298N Motor Driver Controller
-- 2 PCEONAMP 7.4 Li-ion Batteries
+- 2 PCEONAMP 7.4V Li-ion Batteries (3000mAh)
+- Swivel caster wheel
 - Acrylic sheet
 - lots of wires, twist nut caps, a switch, hotglue
 
